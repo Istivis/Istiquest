@@ -25,7 +25,7 @@ Esse projeto é usado pelas seguintes pessoas:
 
 ## Imagem & Exemplo
 
-<img src="/imagem.png">
+<img src="/imagemprojeto.png">
 
 
 ## Documentação de cores
