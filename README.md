@@ -26,7 +26,7 @@ Esse projeto foi criado para seguinte finalidade:
 
 ## Imagem & Exemplo
 
-<img src="/projeto.gif">
+<img src="/project.gif">
 
 
 ## Documentação de cores
