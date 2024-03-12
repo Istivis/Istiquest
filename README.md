@@ -19,10 +19,17 @@ Esse projeto foi criado para seguinte finalidade:
 - Entreterimento
 - teste de conhecimentos
 
+## Funcionalidades
+[ ] Temas dark e light
+[X] Preview em tempo real
+[X] Multiplataforma
+[ ] Integraçao com ChatGpt
 
 ## Stack utilizada
 
-**Front-end:** Html, CSS, Javascript e Chatgpt para geração das perguntas.
+**Front-end:** Html, CSS, Javascript.
+
+
 
 ## Imagem & Exemplo
 
