@@ -36,6 +36,13 @@ header h1 {
   color: #f1f5f9;
   font-size: 30px;
 }
+div.fixed {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 300px;
+}
+
 .botao {
   display: flex;
   align-items: center;

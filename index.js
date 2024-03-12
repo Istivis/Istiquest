@@ -100,7 +100,7 @@ const perguntas = [
     correta: 2
   },
   {
-    pergunta: "Quem é o irmão de Vegeta?",
+    pergunta: "Quem é o pai de Goku?",
     respostas: ["Raditz", "Nappa", "Bardock"],
     correta: 0
   },
@@ -121,7 +121,7 @@ const perguntas = [
   },
   {
     pergunta: "Quem matou Goku pela primeira vez?",
-    respostas: ["Vegeta", "Freeza", "Piccolo"],
+    respostas: ["Raditz", "Freeza", "Piccolo"],
     correta: 1
   },
   {
@@ -172,11 +172,11 @@ const perguntas = [
   {
     pergunta: "Qual é o nome do filho mais novo de Goku?",
     respostas: ["Goten", "Trunks", "Gohan"],
-    correta: 1
+    correta: 0
   },
   {
     pergunta: "Quem é o filho mais velho de Vegeta?",
-    respostas: ["Trunks", "Goten", "Gohan"],
+    respostas: ["Trunks", "Bra", "Gohan"],
     correta: 0
   },
   {
@@ -191,7 +191,7 @@ const perguntas = [
   },
   {
     pergunta: "Quem é o avô de Goku?",
-    respostas: ["Raditz", "Bardock", "Vegeta"],
+    respostas: ["Raditz", "Bardock", "Gohan"],
     correta: 1
   },
   {
@@ -226,7 +226,7 @@ const perguntas = [
   },
   {
     pergunta: "Qual é o nome do último vilão da saga Dragon Ball?",
-    respostas: ["Cell", "Freeza", "Majin Buu"],
+    respostas: ["bills", "Moro", "Majin Buu"],
     correta: 2
   },
   {
@@ -241,26 +241,26 @@ const perguntas = [
   },
   {
     pergunta: "Qual é o nome do filho de Gohan?",
-    respostas: ["Goten", "Trunks", "Goku Jr."],
+    respostas: ["videl", "arale", "Goku Jr."],
     correta: 0
   },
   {
     pergunta: "Qual é a transformação mais poderosa de Vegeta?",
     respostas: ["Super Saiyajin God", "Super Saiyajin Blue", "Ultra Instinto"],
-    correta: 1
+    correta: 2
   },
   {
     pergunta: "Quem é o deus da criação e irmão de Bills?",
     respostas: ["Zeno", "Whis", "Kaioshin"],
-    correta: 1
+    correta: 2
   },
   {
     pergunta: "Qual é a técnica de telecinesia utilizada por alguns personagens em Dragon Ball?",
     respostas: ["Teletransporte", "Kamehameha", "Bukujutsu"],
-    correta: 2
+    correta: 1
   },
   {
-    pergunta: "Quem é o segundo filho de Vegeta?",
+    pergunta: "Quem é o segundo filho de Goku?",
     respostas: ["Gohan", "Goten", "Trunks"],
     correta: 2
   }
