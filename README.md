@@ -13,10 +13,11 @@ sendo atualizado com temas interessantes.
 
 ## Usado por
 
-Esse projeto é usado pelas seguintes pessoas:
+Esse projeto foi criado para seguinte finalidade:
 
-- Influencers
 - Uso Pessoal
+- Entreterimento
+- teste de conhecimentos
 
 
 ## Stack utilizada
