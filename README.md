@@ -2,7 +2,8 @@
 # ISTIQUEST
 
 Questionario criado com base na semana NLW da rocketseat.
-utilizado para geração de perguntas o Chat gpt com modelo do js.
+utilizado para geração de perguntas dentre pre selecionadas na lista.
+sendo atualizado com temas interessantes.
 
 
 ## Referência
@@ -12,10 +13,11 @@ utilizado para geração de perguntas o Chat gpt com modelo do js.
 
 ## Usado por
 
-Esse projeto é usado pelas seguintes pessoas:
+Esse projeto foi criado para seguinte finalidade:
 
-- Influencers
 - Uso Pessoal
+- Entreterimento
+- teste de conhecimentos
 
 
 ## Stack utilizada
@@ -24,7 +26,7 @@ Esse projeto é usado pelas seguintes pessoas:
 
 ## Imagem & Exemplo
 
-<img src="/imagem.png">
+<img src="/project.gif">
 
 
 ## Documentação de cores
